@@ -49,7 +49,7 @@
         if ($('.facts-list').length) {
             $('.facts-list').owlCarousel({
                 loop: true,
-                nav: false,
+                nav: true,
                 dots: true,
                 items: 3,
                 margin: 30,
